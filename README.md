@@ -2,6 +2,8 @@
 
 Welcome to my github profile.
 
+Some of my repos are french only.
+
 I create random things and I have a very bad english.
 
 Some of my repos have been discontinued, so yeah.
