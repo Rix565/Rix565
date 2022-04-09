@@ -1,19 +1,24 @@
-# Hello !
+# Hi! This is me. 👋
+I'm Rixy, a junior developer who writes programs 'n stuff since over 4 years(and counting!).
+## Languages & technologies
 
-Welcome to my github profile.
-
-Some of my repos are french only.
-
-I create random things and I have a very bad english.
-
-Some of my repos have been discontinued, so yeah.
-
-Here you can see my general stats : 
-
+- [x] NodeJS (a little)
+- [ ] Rust
+- [x] Python
+- [x] PHP
+- [x] HTML
+- [x] CSS
+- [x] JS (a little)
+- [x] Java
+- [ ] Go
+- [x] C (currently learning)
+- [ ] C++ (might learn)
+- [ ] ASM (idk if i wanna learn this)
+- [ ] Docker 
+## Some stats around there
+General stats:
 [![My general stats](https://github-readme-stats.vercel.app/api?username=rix565)](https://github.com/anuraghazra/github-readme-stats)
-
-And here, my top langs :
-
+Top languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rix565)](https://github.com/anuraghazra/github-readme-stats)
-
-Thanks for viewing my profile, if you like my work, then don't forget to follow me and like my work, and so, good day !
+## Final notes
+I'm a really tired developer, so it's really common to see a repo from me get discontinued! (+ in the fact i've school)
