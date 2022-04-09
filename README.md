@@ -15,6 +15,10 @@ I'm Rixy, a junior developer who writes programs 'n stuff since over 4 years(and
 - [ ] C++ (might learn)
 - [ ] ASM (idk if i wanna learn this)
 - [ ] Docker 
+- [x] Django
+- [x] Express (javascript webserver)
+- [x] MySQL/MariaDB/SQLite
+- [ ] PostgreSQL
 ## Some stats around there
 General stats:
 [![My general stats](https://github-readme-stats.vercel.app/api?username=rix565)](https://github.com/anuraghazra/github-readme-stats)
