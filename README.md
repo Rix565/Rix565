@@ -20,9 +20,9 @@ I'm Rixy, a junior developer who writes programs 'n stuff since over 4 years(and
 - [x] MySQL/MariaDB/SQLite
 - [ ] PostgreSQL
 ## Some stats around there
-General stats:
+### General stats
 [![My general stats](https://github-readme-stats.vercel.app/api?username=rix565)](https://github.com/anuraghazra/github-readme-stats)
-Top languages:
+### Top languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rix565)](https://github.com/anuraghazra/github-readme-stats)
 ## Final notes
 I'm a really tired developer, so it's really common to see a repo from me get discontinued! (+ in the fact i've school)
