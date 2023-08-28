@@ -1,5 +1,5 @@
 # Hi! This is me. 👋
-I'm Rixy, a junior developer who writes programs 'n stuff since over 4 years(and counting!).
+I'm Rixy, a junior developer who writes programs 'n stuff since over 5 years(and counting!).
 ## Languages & technologies
 
 - [x] NodeJS (a little)
@@ -11,8 +11,8 @@ I'm Rixy, a junior developer who writes programs 'n stuff since over 4 years(and
 - [x] JS (a little)
 - [x] Java
 - [ ] Go
-- [x] C (currently learning)
-- [ ] C++ (might learn)
+- [ ] C (Not learning anymore)
+- [x] C++ (learning)
 - [ ] ASM (idk if i wanna learn this)
 - [ ] Docker 
 - [x] Django
